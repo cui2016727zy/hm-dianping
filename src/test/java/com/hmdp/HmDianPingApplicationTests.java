@@ -67,6 +67,6 @@ class HmDianPingApplicationTests {
         // 统计数量
         Long count = stringRedisTemplate.opsForHyperLogLog().size("hl2");
         System.out.println("count = " + count);
-        System.out.println("hello git!");
+        System.out.println("hello!");
     }
 }
