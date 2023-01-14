@@ -69,5 +69,6 @@ class HmDianPingApplicationTests {
         System.out.println("count = " + count);
         System.out.println("hello!");
         System.out.println("git!");
+        System.out.println("test");
     }
 }
